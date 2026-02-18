@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+requests
+pyyaml
+scikit-learn
+jupyterlab
+ipykernel
+python-dotenv

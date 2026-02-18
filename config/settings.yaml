@@ -1,0 +1,10 @@
+api:
+  base_url: "https://datos.cdmx.gob.mx/api/3/action/"
+  endpoints:
+    sql_search: "datastore_search_sql"
+    package_show: "package_show"
+  resource_id: "b57b9221-5fd9-4359-8cd3-2b611b2a0c65" # Víctimas 2020
+
+project:
+  name: "victimas-delitos-cdmx"
+  version: "1.0.0"
