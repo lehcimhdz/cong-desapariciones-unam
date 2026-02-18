@@ -3,7 +3,12 @@ api:
   endpoints:
     sql_search: "datastore_search_sql"
     package_show: "package_show"
-  resource_id: "b57b9221-5fd9-4359-8cd3-2b611b2a0c65" # Víctimas 2020
+  resources:
+    "2023": "8fe70177-a339-47e9-988e-61209fecdda0"
+    "2022": "02655a3e-178f-4aa5-b7ad-02f4be29ac63"
+    "2021": "b68c25ad-f880-4744-8fe7-ead9376d4820"
+    "2020": "b57b9221-5fd9-4359-8cd3-2b611b2a0c65"
+    "2019": "9f3777b6-0556-4b89-9709-c19d97190a23"
 
 project:
   name: "victimas-delitos-cdmx"
